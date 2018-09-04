@@ -2,6 +2,7 @@ body {
 	background-image: url(../images/bg4.png);
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-attachment: fixed;
 	font-family: 'Ubuntu', sans-serif;
 
 }
